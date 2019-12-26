@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Style for sample1 -->
+    <style name="Sample1_Theme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/simple1ColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Widget.Sample1.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/Widget.Sample1.TextInputLayout</item>
+        <item name="hintTextColor">@color/simple1TextColor</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="boxStrokeColor">@color/simple1ColorPrimaryDark</item>
+    </style>
+
+    <style name="Widget.Sample1.Button"
+        parent="Widget.MaterialComponents.Button">
+    <item name="android:textColor">@color/simple1TextColor</item>
+    <item name="backgroundTint">@color/simple1ColorPrimaryDark</item>
+    </style>
+    <style name="Widget.Sample1.Button.TextButton"
+        parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/simple1TextColor</item>
+    </style>
+    <style name="TextAppearance.Sample1.Title"
+        parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/simple1TextColor</item>
+    </style>
+</resources>

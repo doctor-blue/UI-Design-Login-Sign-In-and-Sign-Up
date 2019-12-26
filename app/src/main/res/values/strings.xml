@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sign In - Sign Up Samples</string>
+    <string name="create_account">Create account</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="error_password">Password must contain at least 8 characters.</string>
+    <string name="logged_in_successfully">Logged in successfully</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="sample1_app_name">Tree Coffee</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+</resources>
