@@ -1,2 +1,1 @@
-# doctor-blue-UI-Design-Login-Sign-In-and-Sign-Up
-Android UI/UX design
+# Sign in Sign up UI/UX design
