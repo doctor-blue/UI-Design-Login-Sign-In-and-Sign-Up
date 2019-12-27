@@ -6,4 +6,6 @@
 
     <color name="simple1ColorPrimaryDark">#5a7a4f</color>
     <color name="simple1TextColor">#464941</color>
+    <color name="simple2ColorPrimaryDark">#393f52</color>
+    <color name="simple2TextColor">#393f52</color>
 </resources>

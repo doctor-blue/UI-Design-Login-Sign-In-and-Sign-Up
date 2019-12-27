@@ -23,19 +23,35 @@
         <item name="boxStrokeColor">@color/simple1ColorPrimaryDark</item>
     </style>
 
-    <style name="Widget.Sample1.Button"
-        parent="Widget.MaterialComponents.Button">
-    <item name="android:textColor">@color/simple1TextColor</item>
-    <item name="backgroundTint">@color/simple1ColorPrimaryDark</item>
+    <style name="Widget.Sample1.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/simple1TextColor</item>
+        <item name="backgroundTint">@color/simple1ColorPrimaryDark</item>
     </style>
-    <style name="Widget.Sample1.Button.TextButton"
-        parent="Widget.MaterialComponents.Button.TextButton">
+
+    <style name="Widget.Sample1.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
         <item name="android:textColor">@color/simple1TextColor</item>
     </style>
-    <style name="TextAppearance.Sample1.Title"
-        parent="TextAppearance.MaterialComponents.Headline4">
+
+    <style name="TextAppearance.Sample1.Title" parent="TextAppearance.MaterialComponents.Headline4">
         <item name="android:textAllCaps">true</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/simple1TextColor</item>
+    </style>
+    <!--Style for sample2 -->
+    <style name="Sample2_Theme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/simple2ColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Widget.Sample2.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/Widget.Sample2.TextInputLayout</item>
+        <item name="hintTextColor">@android:color/white</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:radius">5dp</item>
+        <item name="boxStrokeColor">@color/simple2ColorPrimaryDark</item>
+        <item name="boxBackgroundColor">#D8FFFFFF</item>
+        <item name="errorTextColor">#F87171</item>
     </style>
 </resources>

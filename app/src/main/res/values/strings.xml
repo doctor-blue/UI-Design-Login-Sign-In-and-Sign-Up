@@ -9,4 +9,8 @@
     <string name="sample1_app_name">Tree Coffee</string>
     <string name="next">Next</string>
     <string name="cancel">Cancel</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sample2_app_name">Super Star</string>
+    <string name="email">Email</string>
 </resources>
