@@ -5,7 +5,11 @@
     <img src="https://github.com/doctor-blue/UI-Design-Login-Sign-In-and-Sign-Up/blob/master/screen%20shot/Screenshot_1577403510.png" width="400" height="720"> <br/> <br/>
     
       - Sample 2 :<br/>
-    <img src="https://github.com/doctor-blue/UI-Design-Login-Sign-In-and-Sign-Up/blob/master/screen%20shot/Screenshot_1577458192.png" width="400" height="720"><br/>
+    <img src="https://github.com/doctor-blue/UI-Design-Login-Sign-In-and-Sign-Up/blob/master/screen%20shot/Screenshot_1577458192.png" width="400" height="720"><br/> <br/>
    
       - Sample 3 :<br/>
     <img src="https://github.com/doctor-blue/UI-Design-Login-Sign-In-and-Sign-Up/blob/master/screen%20shot/Screenshot_1577491404.png" width="400" height="720">
+    <br/> <br/>
+   
+      - Sample 4 :<br/>
+    <img src="https://github.com/doctor-blue/sign-in-and-sign-up-UI-samples-for-Android/blob/master/screen%20shot/Screenshot_1577542731.png" width="400" height="720">
