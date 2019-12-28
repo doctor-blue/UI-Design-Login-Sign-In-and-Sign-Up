@@ -54,4 +54,34 @@
         <item name="boxBackgroundColor">#D8FFFFFF</item>
         <item name="errorTextColor">#F87171</item>
     </style>
+
+
+    <!--Style for sample 3 -->
+    <style name="Widget.Sample3.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/Widget.Sample3.TextInputLayout</item>
+        <item name="hintTextColor">@android:color/white</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="boxStrokeColor">@android:color/white</item>
+        <item name="boxBackgroundColor">@android:color/white</item>
+    </style>
+
+    <style name="Widget.Sample3.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Widget.Sample3.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@color/simple3ColorPrimaryDark</item>
+    </style>
+
+    <style name="Sample3_Theme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/simple3ColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextAppearance.Sample3.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
 </resources>

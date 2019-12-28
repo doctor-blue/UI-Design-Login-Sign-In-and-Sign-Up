@@ -8,4 +8,6 @@
     <color name="simple1TextColor">#464941</color>
     <color name="simple2ColorPrimaryDark">#393f52</color>
     <color name="simple2TextColor">#393f52</color>
+
+    <color name="simple3ColorPrimaryDark">#218792</color>
 </resources>
