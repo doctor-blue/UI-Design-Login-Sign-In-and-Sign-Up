@@ -11,13 +11,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".sample3.Sample3Activity"/>
         <activity android:name=".sample1.Sample1Activity" />
         <activity
             android:name=".sample2.Sample2Activity"
             android:theme="@style/Sample2_Theme" />
         <activity
-            android:name=".sample3.Sample3Activity"
-            android:theme="@style/Sample3_Theme">
+            android:name=".sample4.Sample4Activity"
+            android:theme="@style/Sample4_Theme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

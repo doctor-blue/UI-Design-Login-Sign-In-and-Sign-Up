@@ -4,10 +4,13 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 
-    <color name="simple1ColorPrimaryDark">#5a7a4f</color>
-    <color name="simple1TextColor">#464941</color>
-    <color name="simple2ColorPrimaryDark">#393f52</color>
-    <color name="simple2TextColor">#393f52</color>
+    <color name="sample1ColorPrimaryDark">#5a7a4f</color>
+    <color name="sample1TextColor">#464941</color>
+    <color name="sample2ColorPrimaryDark">#393f52</color>
+    <color name="sample2TextColor">#393f52</color>
 
-    <color name="simple3ColorPrimaryDark">#218792</color>
+    <color name="sample3ColorPrimaryDark">#218792</color>
+
+    <color name="sample4colorAccent">#F87171</color>
+    <color name="sample4ColorPrimaryDark">#00BFA5</color>
 </resources>
